@@ -1,0 +1,31 @@
+{
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "FirstName": "Mujammil",
+    "MiddleName": "",
+    "LastName": "Khan",
+    "devDesc": "| Software Engineer | Programmer | Web Developer  ",
+    "icons": [
+        {
+            "id": 0,
+            "image": "fab fa-github",
+            "url": "https://github.com/JuneIparis",
+            "style": "socialicons"
+        },
+
+        {
+            "id": 1,
+            "image": "fab fa-linkedin",
+            "url": "https://linkedin.com/in/itsemkay",
+            "style": "socialicons"
+        },
+        {
+            "id": 2,
+            "image": "fas fa-envelope",
+            "url": "mailto:mujammilkhan321@gmail.com",
+            "style": "socialicons"
+        }
+    ],
+    "showNavigationbar": true
+}
