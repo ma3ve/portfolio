@@ -20,7 +20,7 @@
         {
             "name": "url shortner",
             "description": "it is a url shortner which converts a url to easily sharable url uses django at backed",
-            "github": "hthttps://github.com/ma3ve/urlshortner"
+            "github": "https://github.com/ma3ve/urlshortner"
         }
     ]
 }
