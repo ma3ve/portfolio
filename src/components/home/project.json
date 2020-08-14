@@ -3,24 +3,24 @@
         {
             "name": "Epub Reader",
             "description": "An epub reader with authentication uses django at backend to authenticate,stores the books at aws-s3, uses reactjs at front-end",
-            "github": "https://github.com/JuneIparis/epubreader_django",
+            "github": "https://github.com/ma3ve/epubreader_django",
             "live": "https://epubreader.herokuapp.com/"
         },
         {
             "name": "Youtube playlist total time finder",
             "description": "This website is used to find the total playlist length of a specific youtube playlist uses django at backed",
-            "github": "https://github.com/JuneIparis/playlist_total_duration_finder",
+            "github": "https://github.com/ma3ve/playlist_total_duration_finder",
             "live": "https://playlisttime.herokuapp.com/"
         },
         {
             "name": "crowdcoin",
             "description": "it is a clone for kickstarter but backend is ethereum blockchain for secure and trusted transactions and front-end is reactjs with a theme of semanatic-ui-react",
-            "github": "https://github.com/JuneIparis/CrowdCoin"
+            "github": "https://github.com/ma3ve/CrowdCoin"
         },
         {
             "name": "url shortner",
             "description": "it is a url shortner which converts a url to easily sharable url uses django at backed",
-            "github": "hthttps://github.com/JuneIparis/urlshortner"
+            "github": "hthttps://github.com/ma3ve/urlshortner"
         }
     ]
 }

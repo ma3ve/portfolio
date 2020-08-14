@@ -48,7 +48,7 @@ const Navbar = (props) => {
                     <li className="nav-item">
                         <a
                             className="nav-link lead"
-                            href="https://drive.google.com/file/d/1NsbsyRcYZJ9HqGmMZwOVQETJ0_EhF06c/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1YKgq_URHdrCUXGVa9P5CX6kkW66Iw4kq/view?usp=sharing"
                             target="_blank"
                             rel="noreferrer noopener"
                         >
