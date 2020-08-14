@@ -1,7 +1,7 @@
 {
     "name": "portfolio",
     "description": "",
-    "homepage": "http://ma3ve.github.io/portfolio/",
+    "homepage": "http://ma3ve.github.io/portfolio",
     "version": "1.0.0",
     "private": true,
     "dependencies": {
